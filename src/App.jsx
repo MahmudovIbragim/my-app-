@@ -9,6 +9,7 @@ function App() {
   return (
     <div className="App">
       <header className='App-header'>
+        <div>dsfsfsdfsd</div>
         <Form texts={texts} setTexts={setTexts}/>
         <List texts={texts}/>
       </header>
